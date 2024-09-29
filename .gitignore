@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+public/build/
+.env
+*.log
+*.so
+.vscode/
+.DS_Store
+Thumbs.db
