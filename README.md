@@ -24,9 +24,13 @@ El proyecto está estructurado utilizando el patrón de diseño Modelo-Vista-Con
 
 ---
 
-| Sección "Nosotros"                   | Sección "Blog"                   |
-| -----------------------------------|----------------------------------- |
-| ![Vista de detalles](assets/screenshots/nosotros.png)|![Vista de detalles](assets/screenshots/blog.png)|
+### Sección "Nosotros"
+![Vista de detalles](assets/screenshots/nosotros.png)
+
+---
+
+### Sección "Blog"
+![Vista de detalles](assets/screenshots/blog.png)
 
 ---
 
